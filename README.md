@@ -1,10 +1,8 @@
-## Student Name: Cody D'Orazio
-### This assignment was for CSC331 (Operating Systems). The task was to follow the directions below and implement them successfully
-### through the SSH terminal in hopes for the respected outputs.
+
 # Assignment 1
 
-This assignment serves as a quick introductory practice to C programming, setting the stage for more complex assignments later. 
-You are to perform the following programming tasks:
+_This assignment serves as a quick introductory practice to C programming, setting the stage for more complex assignments later. 
+You are to perform the following programming tasks:_
 
 ### Programming Task 1: 5 points
 
